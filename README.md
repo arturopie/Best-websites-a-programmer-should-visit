@@ -304,7 +304,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Cracking the Coding Interview](https://www.youtube.com/watch?v=Eg5-tdAwclo) : Cracking the Coding Interview, Fullstack Speaker Series
 - [Download: The True Story of the Internet](https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ) : Play-list of discovery channel documentary on browser wars, dot com bubble and more.
 - [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4) : Asymptotic Notation explained by Harvard
-- [How does CPU execute a program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA) : Take a look at how a CPU executes programs
+- [The Fetch-Execute Cycle: What's Your Computer Actually Doing? (video)](https://www.youtube.com/watch?v=Z5JC9Ve1sfI) : Take a look at how a CPU executes programs
 - [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) : Code instructions
 - Machine that Changed the World - a very good documentary about the history of computers
   - Part 1 is unavailable for free streaming due to widespread copyright claims.
